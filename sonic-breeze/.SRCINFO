@@ -1,7 +1,7 @@
 pkgbase = sonic-breeze
 	pkgdesc = Highly customizable binary Window Decoration, Application Style and Global Theme plugin for SonicDE.
-	pkgver = 6.7.4.7
-	pkgrel = 1
+	pkgver = 6.7.4.5
+	pkgrel = 23
 	url = https://github.com/Sonic-DE/sonic-breeze
 	arch = x86_64
 	groups = sonicde
