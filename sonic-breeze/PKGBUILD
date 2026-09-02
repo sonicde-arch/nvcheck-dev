@@ -3,8 +3,8 @@
 
 pkgname=sonic-breeze
 _pkgname=sonic-breeze
-pkgver=6.7.4.5
-pkgrel=23
+pkgver=6.7.4.7
+pkgrel=1
 pkgdesc='Highly customizable binary Window Decoration, Application Style and Global Theme plugin for SonicDE.'
 arch=(x86_64)
 url='https://github.com/Sonic-DE/sonic-breeze'
