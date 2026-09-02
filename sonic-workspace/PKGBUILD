@@ -5,7 +5,7 @@
 # Contributor: Alexey D. <lq07829icatm at rambler.ru>
 
 pkgname=sonic-workspace
-pkgver=6.7.4.1
+pkgver=6.7.4.7
 pkgrel=1
 pkgdesc='SonicDE workspace components'
 arch=(x86_64)
